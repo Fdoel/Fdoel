@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Fdoel
-- 👀 I’m interested in all sort of things that are not boring and repetative
-- 🌱 I’m currently learning R and python
+- 👀 Interested in Finance, Statistics and Machine Learning
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me vandendoel@ese.eur.nl 
 <!---
