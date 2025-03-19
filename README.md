@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fdoel
-- 👀 Interested in Finance, Statistics and Machine Learning
+- 👀 Interested in Finance, Statistics
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me florisvvdoel@gmail.com
 <!---
